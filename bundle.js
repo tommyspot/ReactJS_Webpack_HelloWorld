@@ -9613,7 +9613,7 @@ var World = function (_React$Component) {
       return _react2.default.createElement(
         'h1',
         null,
-        'React!!!'
+        'React 123!!!'
       );
     }
   }]);
